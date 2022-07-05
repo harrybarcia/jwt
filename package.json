@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "jsonwebtoken": "^8.5.1"
+    "http-status-codes": "^2.2.0",
+    "jsonwebtoken": "^8.5.1",
+    "rest-api-errors": "^1.2.5"
   }
 }
